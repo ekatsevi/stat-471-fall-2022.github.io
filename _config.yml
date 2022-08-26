@@ -17,7 +17,7 @@ title: STAT 4710
 tagline: Modern Data Mining
 author: Eugene Katsevich
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://stat-4710-fall-2022.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://ekatsevi.github.io/stat-471-fall-2022.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
